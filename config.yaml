@@ -6,7 +6,7 @@ publishdir: "public"
 builddrafts: false
 buildFuture: true
 pygmentsuseclasses: true
-baseurl: "/"
+baseurl: "http://www.cgoodman.com"
 title: "Christopher B. Goodman, PhD"
 CanonifyUrls: true
 rssLimit: 20
