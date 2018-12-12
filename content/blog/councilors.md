@@ -11,7 +11,7 @@ mathjax: false
 Created in **R** with `ggplot2`. The relevant code is below.
 
 <!--more-->
-{{% figure src="{{.Site.BaseURL}}files/misc/councilors.png" alt="" caption="City councilors per 100,000 residents." %}}
+{{% figure src="files/misc/councilors.png" alt="" caption="City councilors per 100,000 residents." %}}
 
 
 

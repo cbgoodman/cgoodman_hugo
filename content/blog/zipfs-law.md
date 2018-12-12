@@ -1,11 +1,11 @@
 ---
 title: "Zipf's Law"
-date: 2018-12-01T17:46:04-06:00
+date: 2018-12-12T17:46:04-06:00
 categories: [R, dataviz, urban, cities]
 footnotes: false
 htmlwidgets: false
 mathjax: true
-draft: true
+draft: false
 ---
 
 Zipf's law is a constant curiosity for urban observers. According to the law, the size of a city (i.e. population) is inversely related to the city's population rank. This implies that the largest city is twice as large as the second largest city, three times as large as the third largest city, and so on.
