@@ -10,4 +10,4 @@ mathjax: false
 Created in **R** with `ggplot2`. Full code and data can be found [here](https://github.com/cbgoodman/citycouncil).
 <!--more-->
 
-{{% figure src="http://localhost:1313/files/misc/canadiancouncilors.png" alt="" caption="Canadian city councilors per 100,000 residents." %}}
+{{% figure src="files/misc/canadiancouncilors.png" alt="" caption="Canadian city councilors per 100,000 residents." %}}

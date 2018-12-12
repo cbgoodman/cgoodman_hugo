@@ -40,4 +40,4 @@ legend("bottomleft", legend=mpdi.legend, fill=plotclr.org, bty="n", cex=0.65)
 
 Just a few lines of code and you get this.
 
-{{% figure src="http://localhost:1313/files/misc/mpdi.png" alt="" caption="Metropolitan Power Diffusion Index." %}}
+{{% figure src="files/misc/mpdi.png" alt="" caption="Metropolitan Power Diffusion Index." %}}

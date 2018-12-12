@@ -122,4 +122,4 @@ ggplot() +
 
 ## Final Product
 The final product is sharp looking. Certainly web-ready and with a little more work is likely print-ready. As I move all my graphics production to `ggplot2`, `urbnmapr` is my new go-to for simple state or county mapping. It won't replace more complex operations requiring shapefiles, but it will reduce the amount of time and effort it takes to make simple maps.
-{{% figure src="http://localhost:1313/files/misc/mpdi_urbnmapr.png" alt="" caption="Metropolitan Power Diffusion Index, 2012. Normally, Alaksa would be included, but the original MPDI data file did not and I did not update it." %}}
+{{% figure src="files/misc/mpdi_urbnmapr.png" alt="" caption="Metropolitan Power Diffusion Index, 2012. Normally, Alaska would be included, but the original MPDI data file did not and I did not update it." %}}

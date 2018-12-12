@@ -11,7 +11,7 @@ draft: true
 Created in **R** with `ggplot2`. The relevant code is below.
 
 
-{{% figure src="http://localhost:1313/files/misc/supervisors.png" alt="" caption="County supervisors per 100,000 residents" %}}
+{{% figure src="files/misc/supervisors.png" alt="" caption="County supervisors per 100,000 residents" %}}
 <!--more-->
 
 Full code and data can be found on [Github](https://github.com/cbgoodman/county-elect). Code to create the figure can be found below.

@@ -1,6 +1,6 @@
 ---
 type: page
-title: "Resources"
+title: "Data"
 ---
 
 <p><em>This page has links to datasets, replication data, and other research resources.</em></p>

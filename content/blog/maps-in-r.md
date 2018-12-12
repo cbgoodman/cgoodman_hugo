@@ -34,6 +34,6 @@ title("Total Local Governments, 2007")
 legend("bottomleft", leg.txt, bty="n", fill=colors)
 ```
 
-{{% figure src="http://localhost:1313/files/misc/total_county1.png" alt="" caption="Total counties." %}}
+{{% figure src="files/misc/total_county1.png" alt="" caption="Total counties." %}}
 
 This method makes an attractive, print-ready map. It also makes making a number of similar maps dead simple. Enjoy!

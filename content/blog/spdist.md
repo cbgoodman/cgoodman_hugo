@@ -9,4 +9,4 @@ mathjax: false
 ---
 
 
-{{% figure src="http://localhost:1313/files/misc/spdist.png" alt="" caption="Special district creation and dissolution by year." %}}
+{{% figure src="files/misc/spdist.png" alt="" caption="Special district creation and dissolution by year." %}}
