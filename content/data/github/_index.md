@@ -7,4 +7,4 @@ title: "Code and Data"
 
 <p>These are ordered by most recent commit to the repository.</p>
 
-{{< ghStarred url="https://api.github.com/user/12073656/repos?type=public&sort=pushed&user:cbgoodman" >}}
+{{< ghStarred url="https://api.github.com/users/cbgoodman/repos?type=public&sort=pushed" >}}
