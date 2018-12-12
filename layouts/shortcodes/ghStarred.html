@@ -2,7 +2,7 @@
   {{ $url := .Get "url" }}
   {{ $gitJ := getJSON $url}}
   {{ range $gitJ }}
-    {{ $p := . }}
+    {{ $p := .}}
     <li>
       <p><strong><a href="{{ $p.html_url }}" target="_blank">{{ $p.name }}:</a></strong>
       Stars: {{$p.stargazers_count}} &middot; Forks: {{$p.forks_count}} &middot; Size: {{$p.size}} &middot; Type: {{$p.language}} <br />
