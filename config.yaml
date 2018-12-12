@@ -1,0 +1,36 @@
+---
+MetaDataFormat: "yaml"
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+builddrafts: false
+buildFuture: true
+pygmentsuseclasses: true
+baseurl: "/"
+title: "Christopher B. Goodman, PhD"
+CanonifyUrls: true
+rssLimit: 20
+taxonomy:
+    category: "categories"
+menu:
+  main:
+      - Name: "bio & cv"
+        URL: "/cv"
+        Weight: 2
+      - Name: "Research"
+        URL: "/research"
+        Weight: 3
+      - Name: "Data"
+        URL: "/data"
+        Weight: 4
+      - Name: "Teaching"
+        URL: "/teaching"
+        Weight: 5
+      - Name: "Blog"
+        URL: "/blog"
+        Weight: 6
+
+permalinks:
+  blog: /blog/archives/:year/:month/:day/:slug
+  archive: /blog/archives/
+...

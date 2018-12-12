@@ -1,0 +1,38 @@
+{{ partial "header.html" . }}
+<body lang="en">
+
+  <div id="topbar">
+    <div class="wrapper">
+      <header>
+        {{ partial "sidebar.html" . }}
+        {{ $baseurl := .Site.BaseURL }}
+      </header>
+    </div>
+  </div>
+
+
+  <div class="wrapper">
+    <div class="units-row">
+      <div class="unit-70">
+      <!-- Column of even-numbered posts -->
+      {{ range (.Paginator 5).Pages }}
+      {{ .Render "summary" }}
+      {{ end }}
+      </div>
+      <div class="unit-30">
+        <h3></h3>
+        <p><em>Some of my random musing. Typically on data visualization. Sometimes my research. Sometimes both. View <a href="/categories/">an index of posts by category</a></em>.
+        </p>
+      </div>
+    </div>
+  </div>
+
+{{partial "paging.html" . }}
+
+<br />
+
+<hr class="separator">
+
+{{ partial "whatisthis.html" . }}
+
+{{ partial "foot.html" . }}
