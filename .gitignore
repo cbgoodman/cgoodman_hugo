@@ -9,4 +9,3 @@ static/css/stylesheet-min.css
 static/css/stylesheet.css
 static/css/syntax-min.css
 hugo-server.sh
-.travis.yml
