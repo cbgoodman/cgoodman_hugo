@@ -22,8 +22,8 @@ title: "Resources"
 <h4><a href="https://github.com/cbgoodman/msacrosswalk"><code>msacrosswalk</code></a> &rarr;</h4>
 <p><code>msacrosswalk</code> is a simple Stata crosswalk program for adding 2013, 2015, or 2017 vintage CBSA/CSA codes, CBSA/CSA names, metropolitan/micropolitan, and central/outlying indicators that may be missing from your dataset.</p>
 
-<h4><a href="/data/github/">All GitHub Projects</a> &rarr;</h4>
-<p>Here is a <a href="/data/github/">full list of the various public code and data repositories</a> that I have put on GitHub. They range from the configuration and templating tools listed above to data visualization exercises and other bits of data analysis, mostly written in R.</p>
+<h4><a href="https://github.com/cbgoodman?tab=repositories">All GitHub Projects</a> &rarr;</h4>
+<p>Here is a <a href="https://github.com/cbgoodman?tab=repositories">full list of the various public code and data repositories</a> that I have put on GitHub. They range from the configuration and templating tools listed above to data visualization exercises and other bits of data analysis, mostly written in R.</p>
 </div>
 </div>
 </div>
