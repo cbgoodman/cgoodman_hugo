@@ -4,7 +4,7 @@ date: "2018-08-22"
 enddate: "2018-12-12"
 publishdate: "2018-08-30"
 host: "University of Nebraska at Omaha"
-duration: 9072000
+duration: 9676800
 syllabus: Goodman_AD_F_18.pdf
 ---
 
