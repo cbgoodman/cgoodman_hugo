@@ -95,7 +95,7 @@
             {{ range (where .Data.Pages.ByDate "Section" "teaching").Reverse }}
 	    {{ $classend := (add .Date.Unix .Params.duration) }}
 	    {{ if (ge now.Unix $classend ) }}
-	    {{ if (le now.Unix (add $classend 10368000)) }}
+	    {{ if (le now.Unix (add $classend 9676800)) }}
 
             <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}"><span class="caps">{{ .Title }}</span></a>, {{ .Date.Format "January" }}&ndash;{{ .Params.enddate | dateFormat "January 2006" }}. <span class="badge badge-small">completed</span>
             </li>
