@@ -16,7 +16,7 @@
       <div class="unit-20 dateblock"><h5>from <time>{{ .Date.Format "Jan 2006"}} to {{ .Params.enddate | dateFormat "Jan 2006" }}</time></h5>
         Offered through {{ .Params.host }}
         <br/>
-        {{ if ge .Date.Unix now.Unix }}{{ if (le .Date.Unix (add now.Unix 9072000)) }}<span class="badge badge-small badge-yellow">coming soon</span>{{ end }}{{ end }}
+        {{ if ge .Date.Unix now.Unix }}{{ if (le .Date.Unix (add now.Unix 7776000)) }}<span class="badge badge-small badge-yellow">coming soon</span>{{ end }}{{ end }}
         {{ if (le .Date.Unix now.Unix) }}{{ if (le now.Unix (add .Date.Unix .Params.duration)) }}<span class="badge badge-small badge-green">now on</span>{{ end }}{{ end }}
         <p>{{ if .Params.syllabus }}<p><a href="{{.Site.BaseURL}}files/teaching/{{.Params.syllabus}}" class="small"><i class="fa fa-file-pdf-o"></i>&nbsp;Download Syllabus</a></p>{{ end }}</p>
       </div>
