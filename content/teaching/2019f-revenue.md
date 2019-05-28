@@ -6,7 +6,6 @@ publishdate: "2018-11-21"
 host: "Northern Illinois University"
 duration: 4665600
 syllabus:
-draft: true
 ---
 
 Theories and politics of taxation, features and impacts of alternative revenue generation methods, and financial management topics including procurement and procurement systems, enterprise resource planning systems, and contract management.
