@@ -12,7 +12,7 @@ deploy:
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
-  email: cbgoodman@unomaha.edu
+  email: cgoodman@niu.edu
   name: "Christopher Goodman"
   on:
     branch: master

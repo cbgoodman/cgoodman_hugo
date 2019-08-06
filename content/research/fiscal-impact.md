@@ -3,12 +3,12 @@ title: "The Fiscal Impacts of Urban Sprawl: Evidence from U.S. County Areas"
 author: Christopher B. Goodman
 status: Unpublished
 type: unpublished
-citation: "&ldquo;The Fiscal Impacts of Urban Sprawl: Evidence from U.S. County Areas.&rdquo;"
+citation: "&ldquo;The Fiscal Impacts of Urban Sprawl: Evidence from U.S. County Areas.&rdquo; <em>Public Budgeting &amp; Finance</em>"
 tag: fiscal-impact
 subjects:
 comments: no
 file: national-sprawl-expenditures.pdf
-date: 2018-07-14
+date: 2019-08-06
 publishdate: 2018-07-14
 ---
 
