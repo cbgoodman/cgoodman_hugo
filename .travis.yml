@@ -2,7 +2,7 @@ language: go
 go:
   - 1.12
 install:
-  - go get github.com/gohugoio/hugo
+  - go get github.com/gohugoio/hugo@5f033a7
 script:
   - hugo
 deploy:
