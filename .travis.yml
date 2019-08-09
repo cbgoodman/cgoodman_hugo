@@ -2,8 +2,9 @@ language: go
 go:
   - 1.12
 install:
-  - go get github.com/gohugoio/hugo@5f033a7
+  - go get github.com/gohugoio/hugo
 script:
+  - hugo version
   - hugo
 deploy:
   local_dir: public
