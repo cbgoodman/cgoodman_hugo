@@ -1,7 +1,7 @@
 ---
 title: "PSPA 611: Public Revenue Analysis and Financial Management"
-date: "2019-08-19"
-enddate: "2019-10-12"
+date: 2019-08-19
+enddate: 2019-10-12
 publishdate: "2018-11-21"
 host: "Northern Illinois University"
 duration: 4665600
