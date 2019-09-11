@@ -5,7 +5,6 @@ categories: [teaching, pedagogy]
 footnotes: false
 htmlwidgets: false
 mathjax: false
-draft: true
 ---
 Writing good exam questions is hard. If done correctly, the student should have no idea the lengths you went through to write a good set of questions. But maybe they should know just how difficult it really is. This semester I tried an experiment: allow my masters students a chance to write their own midterm exam (with some pretty specific guidelines). We'll see how it turns out, but so far I have been impressed with how much they have taken to the idea.
 
