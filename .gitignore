@@ -9,6 +9,7 @@ static/css/stylesheet-min.css
 static/css/stylesheet.css
 static/css/syntax-min.css
 hugo-server.sh
+new-post.sh
 
 ## git starred
 layouts/shortcodes/ghStarred.html
