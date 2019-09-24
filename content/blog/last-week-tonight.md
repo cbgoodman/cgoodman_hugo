@@ -14,32 +14,48 @@ Ever so often, I teach public finance to graduate students. I have found for man
 
 ### Federal budgeting
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ySTQk6updjQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+{{< youtube ySTQk6updjQ >}}
+
+<br>
 
 ### Tax administration
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Nn_Zln_4pA8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+{{< youtube Nn_Zln_4pA8 >}}
+
+<br>
 
 ### Corporate income taxes
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/RKjk0ECXjiQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+{{< youtube RKjk0ECXjiQ >}}
+
+<br>
 
 ### Fines and forfeitures
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0UjpmT5noto" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+{{< youtube 0UjpmT5noto >}}
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3kEpZWGgJks" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<br>
+
+{{< youtube 3kEpZWGgJks >}}
+
+<br>
 
 ### Intergovernmental relations
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3saU5racsGE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+{{< youtube 3saU5racsGE >}}
+
+<br>
 
 ### Capital budgeting and spending
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Wpzvaqypav8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+{{< youtube Wpzvaqypav8 >}}
+
+<br>
 
 ### Economic development
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/8bl19RoR7lc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+{{< youtube 8bl19RoR7lc >}}
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xcwJt4bcnXs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<br>
+
+{{< youtube xcwJt4bcnXs >}}
