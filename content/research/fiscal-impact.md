@@ -8,6 +8,7 @@ tag: fiscal-impact
 subjects:
 comments: no
 file: national-sprawl-expenditures.pdf
+doi: 10.1111/pbaf.12239
 date: 2019-08-06
 publishdate: 2018-07-14
 ---
