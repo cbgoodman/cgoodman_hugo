@@ -5,7 +5,7 @@ categories: [Dataviz,Teaching]
 footnotes: false
 htmlwidgets: false
 mathjax: false
-draft: true
+draft: false
 ---
 
 {{% figure src="files/misc/mpampp.png" alt="Growth in Earned Degrees in Public Affairs" caption="" %}}
