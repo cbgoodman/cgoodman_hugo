@@ -5,7 +5,6 @@ categories: [Dataviz,R]
 footnotes: false
 htmlwidgets: false
 mathjax: false
-draft: true
 ---
 
 Recently, I was asked by a reviewer to include a large number of regression results in a manuscript I am revising. In my experience, attempting to display more than a few regression results in tabular format is a fool's errand so I went looking for a more visual means of delivering the content. My attempt at doing this is complicated by the estimation taking place in one piece of software (Stata) and visualization taking place in another ( R ).
