@@ -1,3 +1,5 @@
+@import url("fonts.css");
+
 /* =Typography
 -----------------------------------------------------------------------------*/
 body {
@@ -75,11 +77,11 @@ kbd,
 samp,
 var,
 output {
-  font-size: 80%;
+  font-size: 90%;
   font-style: normal;
-  padding-left: 8px;
+  /* padding-left: 8px; */
   padding-bottom: 5px;
-  font-family: PragmataPro, Menlo, Monaco, "Andale Mono", "Lucida Console", "Courier New", monospace;
+  font-family: 'Inconsolata', monospace;
 }
 
 /* =Common

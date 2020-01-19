@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Inconsolata';
+	font-style: normal;
+	font-weight: 400;
+	src:
+		local('Inconsolata Regular'),
+		local('Inconsolata-Regular'),
+		url('../fonts/inconsolata-regular-400.woff') format('woff'),
+		url('../fonts/inconsolata-regular-400.woff2') format('woff2');
+}
