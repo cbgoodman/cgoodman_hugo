@@ -10,8 +10,10 @@ baseurl: "https://www.cgoodman.com/"
 title: "Christopher B. Goodman, PhD"
 CanonifyUrls: true
 rssLimit: 20
+
 taxonomy:
     category: "categories"
+
 menu:
   main:
       - Name: "bio & cv"

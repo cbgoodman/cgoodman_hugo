@@ -1,0 +1,49 @@
+MetaDataFormat = "yaml"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+buildFuture = true
+pygmentsuseclasses = true
+baseurl = "https://www.cgoodman.com/"
+title = "Christopher B. Goodman, PhD"
+CanonifyUrls = true
+rssLimit = 20.0
+disableKinds = "taxonomyTerm"
+
+[taxonomy]
+category = "categories"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[menu]
+
+  [[menu.main]]
+  name = "bio & cv"
+  url = "/cv"
+  weight = 2.0
+
+  [[menu.main]]
+  name = "Research"
+  url = "/research"
+  weight = 3.0
+
+  [[menu.main]]
+  name = "Data"
+  url = "/data"
+  weight = 4.0
+
+  [[menu.main]]
+  name = "Teaching"
+  url = "/teaching"
+  weight = 5.0
+
+  [[menu.main]]
+  name = "Blog"
+  url = "/blog"
+  weight = 6.0
+
+[permalinks]
+blog = "/blog/archives/:year/:month/:day/:slug"
+archive = "/blog/archives/"

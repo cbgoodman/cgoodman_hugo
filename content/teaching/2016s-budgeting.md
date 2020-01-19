@@ -1,8 +1,8 @@
 ---
 title: "PA 8400: Public and Nonprofit Budgeting"
-date: "2016-01-01T00:00:00+11:00"
-enddate: "2016-05-30T00:00:00+11:00"
-publishdate: "2017-01-01"
+date: 2016-01-01T00:00:00-06:00
+enddate: 2016-05-30T00:00:00-06:00
+publishdate: 2017-01-01T00:00:00-06:00
 host: "University of Nebraska at Omaha"
 duration: 9072000
 ---
