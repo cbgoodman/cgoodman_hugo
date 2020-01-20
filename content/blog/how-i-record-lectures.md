@@ -16,7 +16,7 @@ I am teaching online again and that means recording audio lectures. A lot has ch
 
 On the hardware side, I already had a bit of equipment from my last attempts are recording lectures. I wanted high enough sound quality without having to buy too much stuff. I settled on a reasonably nice USB mic (see below) and used my NIU-issued iPad Pro.
 
-<!--{{% figure src="/files/misc/" width="75%" alt="hardware setup" caption="Messy desk" %}}-->
+{{% figure src="/files/misc/hardware.jpg" width="75%" alt="hardware setup" caption="Messy desk" %}}
 
 * [audio-technica AT2020USB+](https://www.audio-technica.com/cms/wired_mics/5879a6ca22e5aa7e/index.html) Cardioid Condenser USB Microphone, though any USB mic will work
 * iPad Pro
