@@ -1,6 +1,5 @@
 ---
 title: "Do Cities and Counties Attempt to Circumvent Changes in Their Autonomy by Creating Special Districts?"
-
 author: Christopher B. Goodman and Suzanne M. Leland
 type: published
 citation: "&ldquo;Do Cities and Counties Attempt to Circumvent Changes in Their Autonomy by Creating Special Districts?&rdquo; <em>The American Review of Public Administration</em> 49 (2): 203-217."
