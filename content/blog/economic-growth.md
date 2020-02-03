@@ -1,7 +1,7 @@
 ---
 title: "Long-Run Metropolitan Economic Growth in the U.S."
 date: 2018-07-31T16:53:53-05:00
-categories: [R, dataviz, cities, urban]
+categories: [R, dataviz, cities, urban, maps]
 footnotes: false
 htmlwidgets: false
 mathjax: false

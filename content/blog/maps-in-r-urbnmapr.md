@@ -1,7 +1,7 @@
 ---
 title: "Maps in R using urbnmapr"
 date: 2018-06-16T16:53:53-05:00
-categories: [R, dataviz]
+categories: [R, dataviz,maps]
 footnotes: false
 htmlwidgets: false
 mathjax: false

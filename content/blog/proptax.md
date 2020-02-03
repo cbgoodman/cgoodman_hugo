@@ -1,7 +1,7 @@
 ---
 title: "Property Tax Reliance in U.S. County Areas"
 date: 2015-01-13T16:53:53-05:00
-categories: [property-tax]
+categories: [property-tax, maps]
 summary: The property tax has a number of desirable properties. State and local governments have been using it in the U.S. forever, and it’s incredibly stable (up to a point, see 2008-2009).
 footnotes: false
 htmlwidgets: false

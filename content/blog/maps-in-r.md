@@ -1,7 +1,7 @@
 ---
 title: "Maps in R using library(maps)"
 date: 2013-07-11T16:53:53-05:00
-categories: [R, dataviz]
+categories: [R, dataviz, maps]
 summary: How  to make maps in R using the library(maps)
 footnotes: false
 htmlwidgets: false

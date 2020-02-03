@@ -1,7 +1,7 @@
 ---
 title: "Douglas County Migration Patterns, 2016"
 date: 2018-12-22T23:14:08-06:00
-categories: [R, dataviz]
+categories: [R, dataviz, maps]
 footnotes: false
 htmlwidgets: false
 mathjax: false

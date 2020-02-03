@@ -1,7 +1,7 @@
 ---
 title: "Local Government Overlap"
 date: 2019-09-23T11:49:02-05:00
-categories: [dataviz,R, local-govt]
+categories: [dataviz,R, local-govt, maps]
 footnotes: false
 htmlwidgets: false
 mathjax: false
