@@ -5,7 +5,7 @@ categories: [dataviz, R]
 footnotes: false
 htmlwidgets: false
 mathjax: false
-draft: true
+draft: false
 ---
 
 Many academic journals require figures in greyscale. This can be done relatively simply by printing to PDF as greyscale; however, this doesn't give you a) a way to preview what the resulting figure will look like and b) much control over the process of desaturation. If you're making figures in ```R```, this process is almost as easy as the more simplistic print to PDF method.
