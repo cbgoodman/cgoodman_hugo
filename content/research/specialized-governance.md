@@ -6,6 +6,7 @@ type: unpublished
 citation: "&ldquo;The Consequences of Specialized Governance on Spending and Expansion of Public Transit.&rdquo; <em>Local Government Studies</em>"
 tag:
 file: specialized-governance.pdf
+doi: 10.1080/03003930.2020.1744571
 subjects: special districts
 comments: no
 date: 2020-03-09
