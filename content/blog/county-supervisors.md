@@ -5,7 +5,7 @@ categories: [R, dataviz, counties, local-govt]
 footnotes: false
 htmlwidgets: false
 mathjax: false
-draft: true
+draft: false
 ---
 
 Created in **R** with `ggplot2`. The relevant code is below.

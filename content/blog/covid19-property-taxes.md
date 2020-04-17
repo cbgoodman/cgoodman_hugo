@@ -5,7 +5,7 @@ categories: [property-taxes,public-finance]
 footnotes: false
 htmlwidgets: false
 mathjax: false
-draft: true
+draft: false
 ---
 Over on Twitter, I worked through a how the current COVID-19 pandemic might influence property taxes in the Chicagoland region (see below for a link to that thread if you want to go through it). Twitter is nice for quick thoughts, but this is important so I thought I'd expand upon that a bit. Off we go!
 
