@@ -2,7 +2,7 @@ language: go
 go:
   - 1.14
 install:
-  - go get https://github.com/gohugoio/hugo/tree/release-0.68.0
+  - go get github.com/gohugoio/hugo@157669a
 script:
   - hugo
 deploy:
