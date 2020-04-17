@@ -1,7 +1,7 @@
 ---
 title: "Speculating on the Impact of COVID-19 on Chicagoland Property Taxes"
 date: 2020-04-17T13:38:32-05:00
-categories: [property-taxes,public-finance]
+categories: [property-tax,public-finance]
 footnotes: false
 htmlwidgets: false
 mathjax: false
