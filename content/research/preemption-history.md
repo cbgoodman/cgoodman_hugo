@@ -3,7 +3,7 @@ title: "State Preemption of Local Laws: Origins and Modern Trends"
 author: Christopher B. Goodman, Megan E. Hatch, and Bruce D. McDonald, III
 status: Unpublished
 type: unpublished
-citation: "&ldquo;State Preemption of Local Laws: Origins and Modern Trends&ldquo;"
+citation: "&ldquo;State Preemption of Local Laws: Origins and Modern Trends.&ldquo;"
 tag:
 subjects:
 comments: no
