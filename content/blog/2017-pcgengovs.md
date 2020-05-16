@@ -1,11 +1,11 @@
 ---
 title: "Per Capita General-Purpose Local Governments, 2017"
-date: 2020-01-31T18:08:32-06:00
+date: 2020-05-16T18:08:32-06:00
 categories: [dataviz,maps,local-govt]
 footnotes: false
 htmlwidgets: false
 mathjax: false
-draft: true
+draft: false
 ---
 
 {{% figure src="files/misc/totgenpurposepc-cog-17.png" alt="Map of general purpose local governments per capita by county" caption="" %}}
