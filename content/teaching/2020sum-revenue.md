@@ -5,7 +5,7 @@ enddate: 2020-08-05T00:00:00-06:00
 publishdate: 2020-04-04T00:00:00-06:00
 host: "Northern Illinois University"
 duration: 4665600
-syllabus:
+syllabus: goodman-pspa611-sum20.pdf
 draft: false
 ---
 
