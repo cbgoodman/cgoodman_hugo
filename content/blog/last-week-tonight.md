@@ -52,12 +52,18 @@ Ever so often, I teach public finance to graduate students. I have found for man
 
 <br>
 
-### Economic development
+### Special topics: Economic development
 
 {{< youtube 8bl19RoR7lc >}}
 
 <br>
 
 {{< youtube xcwJt4bcnXs >}}
+
+<br>
+
+### Special topics: Law enforcement
+
+{{< youtube v_kak7kAdNw >}}
 
 <br>

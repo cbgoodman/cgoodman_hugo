@@ -15,3 +15,6 @@ new-class.sh
 ## git starred
 layouts/shortcodes/ghStarred.html
 content/data/github
+
+## leave out custom YT shortocde
+layouts/shortcodes/youtube.html
