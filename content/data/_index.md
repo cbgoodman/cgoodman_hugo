@@ -13,6 +13,9 @@ title: "Data"
 <h4><a href="https://github.com/cbgoodman/tels-data" title="TEL data @ Github">State-Level Tax and Expenditure Limitations</a> &rarr;</h4>
 <p>This replication package contains the Stata code and raw spreadsheets needed to create the state-level tax and expenditure limitation data contained in <a href="http://www.library.unt.edu/gpo/acir/Reports/information/M-194.pdf">Mullins and Cox (1995)</a> and the <a href="http://www.lincolninst.edu/">Lincoln Institute for Land Policy's</a> <a href="http://datatoolkits.lincolninst.edu/subcenters/significant-features-property-tax/Report_Tax_Limits.aspx">Signifiant Features of the Property Tax: Tax Limits</a>. <em>This is a work in progress</em>.</p>
 
+<h4><a href="https://github.com/cbgoodman/muni-incorporation" title="Municipal incorporation data @ Github">Municipal Incorporation</a> &rarr;</h4>
+<p>This repository contains the raw data, code, and sources used to create an individual level and state municipal incorporation date dataset for all active (contained in the Census of Governments) municipalities in the United States. <em>This is a work in progress</em>.</p>
+
 </div>
 
 <div class="unit-50">
