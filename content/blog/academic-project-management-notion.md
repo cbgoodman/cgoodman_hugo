@@ -5,7 +5,7 @@ categories: [technology,project-management]
 footnotes: false
 htmlwidgets: false
 mathjax: false
-draft: true
+draft: false
 ---
 
 I'm horribly bad at project management. It's not usually something that is specifically taught in graduate school even though it's incredibly important to an academic's professional life. There are many ways to go about this (low tech to super high tech), but the purpose of this post is to explain one tool that I have found incredibly useful and flexible. That tool is **Notion** ([notion.so](https://www.notion.so/educators)). Notion can do way more than I am going to explain (see [Using Notion as Your Second Brain](https://fortelabs.co/blog/using-notion-as-your-second-brain/)), but this is how I use it to keep track of writing projects throughout the process of development to publication.
