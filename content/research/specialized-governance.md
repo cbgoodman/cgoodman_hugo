@@ -9,7 +9,7 @@ file: specialized-governance.pdf
 doi: 10.1080/03003930.2020.1744571
 subjects: special districts
 comments: no
-date: 2020-03-09
+date: 2020-04-08
 publishdate: 2017-06-20
 ---
 
