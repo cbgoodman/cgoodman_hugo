@@ -3,12 +3,12 @@ title: "The Truth about Honesty in the Nonprofit Sector"
 author: Bruce D. McDonald, III and Christopher B. Goodman
 status: Unpublished
 type: unpublished
-citation: "&ldquo;The Truth about Honesty in the Nonprofit Sector.&rdquo;"
+citation: "&ldquo;The Truth about Honesty in the Nonprofit Sector.&rdquo; <em>Public Administration Quarterly</em>"
 tag:
 subjects:
 comments: no
 file: npo-benford.pdf
-date: 2019-01-23T17:44:12-06:00
+date: 2020-08-18
 publishdate:
 draft: true
 ---
