@@ -8,7 +8,7 @@ mathjax: false
 draft: false
 ---
 
-Cities, broadly, manage a number of public assets with which they provide public services. Some of those services are somewhat passive in the sense that no active labor aside from maintenance is being carried out. And others are more active in that the asset is being used by public sector employees or contractors to provide a public service. We generally think of the latter as the primary mode of public service delivery as it is more visible. We see the bus driver, the police officer, the firefighter, etc in our communities doing their jobs. But the passive service is no less important. We drive on roads, use water and sewer infrastructure (though this is a blended service), etc on a daily basis as we go about our lives. One of the big differences between these two kinds of services is how the public sector asks user to pay for them. Some services are supported through taxes, but a great many are supported through user fees. Below, I point out two approaches to this for getting around a central city: the cost of storing a vehicle on a public street versus the cost of using the transit system.
+Cities, broadly, manage a number of public assets with which they provide public services. Some of those services are somewhat passive in the sense that no active labor aside from maintenance is being carried out. And others are more active in that the asset is being used by public sector employees or contractors to provide a public service. We generally think of the latter as the primary mode of public service delivery as it is more visible. We see the bus driver, the police officer, the firefighter, etc in our communities doing their jobs. But the passive service is no less important. We drive on roads, use water and sewer infrastructure (though this is a blended service), etc on a daily basis as we go about our lives. One of the big differences between these two kinds of services is how the public sector asks users to pay for them. Some services are supported through taxes, but a great many are supported through user fees. Below, I point out two approaches to this for getting around a central city: the cost of storing a vehicle on a public street versus the cost of using the transit system.
 
 <!--more-->
 
@@ -57,7 +57,7 @@ Greg Shill offers a further commentary on the equity concerns here.
 
 Residential street parking could be a decent revenue source for large cities. Vast sums of money are spent on the provision and maintenance of roads and few mechanisms exist to explicitly capture revenues associated with the usage of roads.[^3] Appropriately pricing residential street parking could do this in a direct way.
 
-td;lr: Street parking in nearly all U.S. cities is vastly underpriced.
+tl;dr: Street parking in nearly all U.S. cities is vastly underpriced.
 
 [^1]: It is important to note that in many of these cities the residential parking permit system (or zones) do not cover the entire city. In a great many locations in these cities, street parking is essentially free (or uncharged for by the public sector).
 [^2]: This doesn't consider the social costs imposed either.
