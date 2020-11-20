@@ -3,12 +3,12 @@ title: "Tensions in State-Local Intergovernmental Response to Emergencies: The C
 author: Bruce D. McDonald, III, Christopher B. Goodman, and Megan E. Hatch
 status: Unpublished
 type: unpublished
-citation: "&ldquo;State Tensions in State-Local Intergovernmental Response to Emergencies: The Case of COVID-19.&rdquo; <em>State and Local Government Review</em>"
+citation: "&ldquo;State Tensions in State-Local Intergovernmental Response to Emergencies: The Case of COVID-19.&rdquo; <em>State &amp; Local Government Review</em>"
 tag: preemption
 subjects:
 comments: no
 file: covidpreemption.pdf
-date: 2020-05-01
+date: 2020-11-19
 publishdate: 2020-05-01
 ---
 
