@@ -8,6 +8,7 @@ tag: preemption
 subjects:
 comments: no
 file: covidpreemption.pdf
+doi: 10.1177/0160323X20979826
 date: 2020-11-19
 publishdate: 2020-05-01
 ---
