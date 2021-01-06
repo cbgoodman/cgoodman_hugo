@@ -7,7 +7,7 @@ citation: "&ldquo;Neighborhood Institutions and Residential Home Sales: Evaluati
 file:
 subjects:
 comments: no
-date: 2020-11-20
+date: 2021-01-06
 publishdate:
 doi: 10.1007/s11146-020-09808-y
 ---
