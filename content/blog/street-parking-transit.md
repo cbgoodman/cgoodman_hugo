@@ -51,10 +51,6 @@ Below is the monthly cost of a residential parking permit[^1] versus the cost of
 
 In these times of municipal fiscal distress, it is important to consider the costs of providing public services. Since residential street parking is often free (or minimally priced), the cost of upkeep and maintenance of street falls on all taxpayers through general taxation (usually the property tax). This is highly inequitable to non-street parking users who are asked to bear a portion of the cost while receiving no benefits.[^2] The public sector asks transit users to bear a much larger portion of the costs associated with their usage of the public transit infrastructure than car users are asked to bear.
 
-Greg Shill offers a further commentary on the equity concerns here.
-
-{{< tweet 1305591738376032258 >}}
-
 Residential street parking could be a decent revenue source for large cities. Vast sums of money are spent on the provision and maintenance of roads and few mechanisms exist to explicitly capture revenues associated with the usage of roads.[^3] Appropriately pricing residential street parking could do this in a direct way.
 
 tl;dr: Street parking in nearly all U.S. cities is vastly underpriced.
