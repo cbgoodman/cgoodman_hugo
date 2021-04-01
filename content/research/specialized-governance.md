@@ -1,7 +1,7 @@
 ---
 title: "The Consequences of Specialized Governance on Spending and Expansion of Public Transit"
 author: Christopher B. Goodman, Suzanne M. Leland, and Olga Smirnova
-status: unpublished
+status: Published
 type: unpublished
 citation: "&ldquo;The Consequences of Specialized Governance on Spending and Expansion of Public Transit.&rdquo; <em>Local Government Studies</em> 47 (2): 296-311."
 tag:
