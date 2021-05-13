@@ -6,7 +6,6 @@ status: published
 type: published
 citation: "&ldquo;The Effects of Assessment Quality on Revenue Volatility&rdquo; <em>Public Budgeting &amp; Finance</em> 31 (1): 76–94."
 tag: assessment-quality
-file: 
 subjects:
 comments: no
 date: 2011-01-01

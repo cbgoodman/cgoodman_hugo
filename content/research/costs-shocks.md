@@ -1,12 +1,10 @@
 ---
 title: "Cost shocks and their relationship to the creation, consolidation and dissolution of US local governments"
-
 author: Christopher B. Goodman and Suzanne M. Leland
 status: published
 type: published
 citation: "&ldquo;Cost shocks and their relationship to the creation, consolidation and dissolution of US local governments&rdquo; <em>Public Finance &amp; Management</em> 13 (2): 58-79"
 tag:
-file: 
 subjects:
 comments: no
 date: 2013-04-01

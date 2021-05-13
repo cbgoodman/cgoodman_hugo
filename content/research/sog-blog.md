@@ -6,7 +6,6 @@ status: published
 type: other
 citation: "&ldquo;Do cities and counties circumvent state policy? One potential mechanism.&rdquo; <em>Death and Taxes</em>."
 tag: sog-blog
-file: 
 subjects:
 comments: no
 date: 2017-07-31

@@ -2631,11 +2631,11 @@ input[type="submit"].btn-white.btn-outline.btn-active {
 }
 .label-blue,
 .badge-blue {
-  background: #2575ed;
+  background: #4673b8;
 }
 .label-red,
 .badge-red {
-  background: #de2c3b;
+  background: #bd666d;
 }
 .label-green,
 .badge-green {
@@ -2659,12 +2659,12 @@ input[type="submit"].btn-white.btn-outline.btn-active {
   color: #0f0f0f;
 }
 .label-blue.label-outline {
-  border-color: #2575ed;
-  color: #2575ed;
+  border-color: #4673b8;
+  color: #4673b8;
 }
 .label-red.label-outline {
-  border-color: #de2c3b;
-  color: #de2c3b;
+  border-color: #bd666d;
+  color: #bd666d;
 }
 .label-green.label-outline {
   border-color: #2c9f42;

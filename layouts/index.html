@@ -23,12 +23,12 @@
 
     <div class="wrapper">
       <div class="units-row">
-        <div class="unit-66">
+        <div class="unit-60">
           <div class="units-row-end">
-            <div class="unit-33 dateblock">
+            <div class="unit-40 dateblock">
               &nbsp;
             </div>
-            <div class="unit-66">
+            <div class="unit-60">
 	      <p></p>
 	    </div>
           </div>
@@ -57,14 +57,15 @@
           </div>
         </div>
 
-        <div class="unit-33">
+        <div class="unit-40">
 
           <h3>Recent Work</h3>
           <ul class="compact fa-ul">
             {{ range first 4 (where .Site.RegularPages.ByDate "Section" "research").Reverse }}
             <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "book" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }}
               <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
-              {{ if isset .Params "file" }}<a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>{{ end }}
+              {{ if isset .Params "doi" }}<a href="http://dx.doi.org/{{.Params.doi}}" class="badge badge-small badge-blue">doi</a>{{ end }}
+              {{ if isset .Params "file" }}<a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}" class="badge badge-small badge-red"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>{{ end }}
             </li>
 	    {{ end }}
           </ul>
