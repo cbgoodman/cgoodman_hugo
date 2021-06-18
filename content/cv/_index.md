@@ -11,7 +11,7 @@ title: "Bio & CV"
 
 <p>I received a B.S. in political science from Kennesaw State University, a Master of Public Administration with a specialization in public policy analysis from the University of Georgia, and a PhD in public administration and policy from the University of Georgia.</p>
 
-<p>Most of my <a href="publications/">publications and working papers</a> are available on this site, along with my <a href="blog/">random musings</a>. My complete <a href="vita.pdf">curriculum vitae</a> has more detail, if you need it.</p>
+<p>Most of my <a href="research/">publications and working papers</a> are available on this site, along with my <a href="blog/">random musings</a>. My complete <a href="vita.pdf">curriculum vitae</a> has more detail, if you need it.</p>
 </div>
 
 </div>
