@@ -11,7 +11,7 @@ subjects:
 comments: no
 date: 2018-07-14
 publishdate: 2018-07-14
-doi: 110.1177/0160323X18774402
+doi: 10.1177/0160323X18774402
 filter:
   - erb
   - markdown
