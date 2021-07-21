@@ -11,6 +11,7 @@ static/css/syntax-min.css
 hugo-server.sh
 new-post.sh
 new-class.sh
+new-research.sh
 
 ## git starred
 layouts/shortcodes/ghStarred.html

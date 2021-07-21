@@ -6,6 +6,7 @@ type: unpublished
 citation: "&ldquo;Neighborhood Institutions and Residential Home Sales: Evaluating the Impact of Property Tax Exemptions&rdquo; <em>The Journal of Real Estate Finance &amp; Economics</em>"
 subjects:
 comments: no
+file: tax-exempt-housing.pdf
 date: 2021-01-06
 publishdate:
 doi: 10.1007/s11146-020-09808-y
