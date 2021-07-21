@@ -9,3 +9,5 @@ syllabus: goodman-pspa611-f2021.pdf
 ---
 
 Theories and practices of public sector revenues. Topics include efficiency and equity considerations, alternative revenue generation, financial analysis, and tax and revenue administration.
+
+A preview to the course can be found [here](https://pspa611.cgoodman.com).
