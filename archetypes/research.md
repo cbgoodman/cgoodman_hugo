@@ -12,3 +12,9 @@ date: {{ .Date }}
 publishdate:
 draft: true
 ---
+
+
+### BibTeX Citation
+```bib
+
+```

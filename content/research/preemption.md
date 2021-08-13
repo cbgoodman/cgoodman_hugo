@@ -13,3 +13,12 @@ publishdate: 2018-07-24
 ---
 
 This article discusses the influence of state legislative ideology on the legislative preemption of local ordinances in the area of worker rights. States define the powers of local governments within their purview and states may use this power to restrict local governments from pursuing certain policies. Using data on state legislative activity and ideology from 1993 to 2016, I find within-state increases in legislative ideology, indicating increased legislative conservatism, associated with an increased risk of preempting local government policy, all else equal. This finding is robust to a number of alternate specifications and hypotheses. Ideology appears to play an important role in the decision to involve the state in the affairs of local governments.
+
+### BibTeX Citation
+```bib
+@unpublished{goodman-2018,
+  author = {Goodman, Christopher B},
+  note = {Working Paper},
+  title = {State Legislative Ideology & the Preemption of City Ordinances: The Case of Worker Rights Laws},
+  year = {2018}
+```

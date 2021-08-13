@@ -23,11 +23,3 @@ Integer accumsan nisi ac orci varius mattis. Quisque pellentesque at nunc vel rh
 Nulla dictum accumsan velit vel auctor. Quisque gravida nunc tellus, et facilisis orci tempus et. Aliquam velit sem, vulputate eu ante ac, fermentum maximus nulla. Fusce egestas lacinia tortor. Phasellus rhoncus tempus dapibus. Morbi ipsum libero, mattis sed mattis a, tristique at libero. Donec lacus nisi, aliquam non neque eu, posuere laoreet enim. Nullam auctor lacinia augue quis imperdiet. Curabitur vel varius augue, dignissim rutrum orci. Phasellus dictum faucibus purus, sed venenatis nisl condimentum quis. Maecenas commodo nisl eget odio egestas, ut porttitor diam rhoncus. Fusce vel elit enim. Nullam mattis finibus purus id lacinia. In mi ipsum, vulputate vitae ante sed, aliquam dictum nibh.
 
 Aliquam nunc turpis, placerat nec risus vitae, pellentesque vulputate sapien. Sed ornare orci vitae leo congue blandit. Etiam quis turpis sed nibh rhoncus sollicitudin. Nulla facilisi. Suspendisse congue interdum diam, a vestibulum lorem scelerisque a. In hac habitasse platea dictumst. Nulla facilisi. Etiam blandit laoreet lectus. Maecenas nec tincidunt nisl. Suspendisse at scelerisque felis. Morbi gravida, neque quis laoreet molestie, risus erat ornare orci, at commodo elit odio molestie lectus.
-
-
-
-
-{{< highlight r >}}
-
-
-{{< /highlight >}}

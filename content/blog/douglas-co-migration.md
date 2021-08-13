@@ -26,9 +26,3 @@ The IRS SOI data has a minimum count threshold to preserve the privacy of indivi
 {{% figure src="files/misc/douglas-irs-out.png" alt="Douglas County IRS Out Migration" caption="" %}}
 #### In migration
 {{% figure src="files/misc/douglas-irs-in.png" alt="Douglas County IRS Out Migration" caption="" %}}
-
-
-{{< highlight r >}}
-
-
-{{< /highlight >}}
