@@ -13,7 +13,7 @@
 
   <div class="wrapper">
     <div class="units-row">
-      <div class="unit-20 dateblock"><h5>from <time>{{ .Date.Format "Jan 2006"}} to {{ .Params.enddate | dateFormat "Jan 2006" }}</time></h5>
+      <div class="unit-20 dateblock"><h5><time>{{ .Date.Format "Jan 2006"}} to {{ .Params.enddate | dateFormat "Jan 2006" }}</time><br > {{ .Params.semester}} semester<br/> {{ if isset .Params "format" }} ({{ .Params.format }}){{end}}</h5>
         Offered through {{ .Params.host }}
         <br/>
         {{ if ge .Date.Unix now.Unix }}{{ if (le .Date.Unix (add now.Unix 7776000)) }}<span class="badge badge-small badge-yellow">coming soon</span>{{ end }}{{ end }}
@@ -22,7 +22,7 @@
       </div>
       <div class="unit-centered unit-60">
         <article class="post" id="content">
-        <h3>{{ .Title }}</h3>
+        <h3>{{ .Params.course_num }}: {{ .Title }}</h3>
         {{ .Content }}
         </article>
         <hr>

@@ -1,8 +1,11 @@
 ---
-title: "UBNS 8OOO: Seminar in Urban Studies (team taught)"
+title: "Seminar in Urban Studies"
 date: 2016-08-15T00:00:00-06:00
 enddate: 2016-12-30T00:00:00-06:00
 publishdate: 2017-01-01T00:00:00-06:00
+ay: "2015-2016"
+semester: "Spring"
+course_num: "UBNS 8OOO"
 host: "University of Nebraska at Omaha"
 duration: 9072000
 ---

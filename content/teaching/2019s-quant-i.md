@@ -1,8 +1,11 @@
 ---
-title: "PA 9950: Quantitative Methods in Public Administration"
+title: "Quantitative Methods in Public Administration"
 date: 2019-01-09T00:00:00-06:00
 enddate: 2019-05-01T00:00:00-06:00
 publishdate: 2018-11-21T00:00:00-06:00
+ay: "2018-2019"
+semester: "Spring"
+course_num: "PA 9950"
 host: "University of Nebraska at Omaha"
 duration: 9676800
 syllabus: goodman_9950_spr_19.pdf

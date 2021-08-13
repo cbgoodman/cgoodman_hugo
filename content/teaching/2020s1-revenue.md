@@ -1,8 +1,12 @@
 ---
-title: "PSPA 611: Public Revenue Analysis and Financial Management (Online)"
+title: "Public Revenue Analysis and Financial Management"
 date: 2020-01-13T00:00:00-06:00
 enddate: 2020-03-07T00:00:00-06:00
 publishdate: 2019-11-03T00:00:00-06:00
+ay: "2019-2020"
+semester: "Spring"
+format: "asynchronous online"
+course_num: "PSPA 611"
 host: "Northern Illinois University"
 duration: 4665600
 syllabus: goodman-pspa611-s20-1.pdf

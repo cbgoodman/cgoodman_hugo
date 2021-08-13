@@ -1,8 +1,11 @@
 ---
-title: "PA 8120: Analysis and Decision Making"
+title: "Analysis and Decision Making"
 date: 2016-08-15T00:00:00-06:00
 enddate: 2016-12-30T00:00:00-06:00
 publishdate: 2017-01-01T00:00:00-06:00
+ay: "2016-2017"
+semester: "Fall"
+course_num: "PA 8120"
 host: "University of Nebraska at Omaha"
 duration: 9072000
 ---
