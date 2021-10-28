@@ -1,15 +1,15 @@
 ---
 title: "Political Fragmentation & Economic Growth in U.S. Metropolitan Areas"
 author: Christopher B. Goodman
-status: Unpublished
-type: unpublished
-citation: "&ldquo;Political Fragmentation & Economic Growth in U.S. Metropolitan Areas.&rdquo; <em>Journal of Urban Affairs</em>"
+status: published
+type: published
+citation: "&ldquo;Political Fragmentation & Economic Growth in U.S. Metropolitan Areas.&rdquo; <em>Journal of Urban Affairs</em> 43 (9): 1355-1376."
 tag:
 subjects:
 comments: no
 file: frag-grow.pdf
 doi: 10.1080/07352166.2020.1742578
-date: 2020-05-13
+date: 2021-10-28
 publishdate: 2018-08-02
 ---
 
@@ -21,6 +21,9 @@ This paper analyzes the impact of local political fragmentation on population, e
   author = {Goodman, Christopher B.},
   doi = {10.1080/07352166.2020.1742578},
   journal = {Journal of Urban Affairs},
+  number = {9},
+  pages = {1355-1376},
   title = {Political Fragmentation \& Economic Growth in U.S. Metropolitan Areas},
-  year = {2020}}
+  volume = {43},
+  year = {2021}}
 ```
