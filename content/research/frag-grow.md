@@ -17,7 +17,7 @@ This paper analyzes the impact of local political fragmentation on population, e
 
 ### BibTeX Citation
 ```bib
-@article{goodman-2020-jua,
+@article{goodman-2021-jua,
   author = {Goodman, Christopher B.},
   doi = {10.1080/07352166.2020.1742578},
   journal = {Journal of Urban Affairs},
