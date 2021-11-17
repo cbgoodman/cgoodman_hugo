@@ -5,7 +5,6 @@ categories: [local-govt,urban,cities]
 footnotes: false
 htmlwidgets: false
 mathjax: false
-draft: true
 ---
 
 I recently had the pleasure of writing a blog post for the [London School of Economic’s US Centre Blog](https://blogs.lse.ac.uk/usappblog/). It covers a recent publication in the [*Journal of Urban Affairs*](https://www.tandfonline.com/loi/ujua20) on the implications of local government structure on long-run economic growth in the US metropolitan areas. You can find more information about this piece [here](/research/frag-grow/). See below for the full text of the post as well as a link to the original.
