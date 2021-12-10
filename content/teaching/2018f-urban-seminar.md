@@ -4,9 +4,10 @@ date: 2018-08-19T00:00:00-06:00
 enddate: 2018-12-10T00:00:00-06:00
 publishdate: 2018-08-30T00:00:00-06:00
 ay: "2018-2019"
+group: "2020 & Prior"
 semester: "Fall"
 course_num: "UBNS 8000"
-host: "University of Nebraska at Omaha"
+university: "University of Nebraska at Omaha"
 duration: 9676800
 syllabus: Goodman_US_F_18.pdf
 ---

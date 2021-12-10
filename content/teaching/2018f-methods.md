@@ -1,12 +1,13 @@
 ---
-title: "Analysis and Decision-making"
+title: "Analysis & Decision Making"
 date: 2018-08-22T00:00:00-06:00
 enddate: 2018-12-12T00:00:00-06:00
 publishdate: 2018-08-30T00:00:00-06:00
 ay: "2018-2019"
+group: "2020 & Prior"
 semester: "Fall"
 course_num: "PA 8120"
-host: "University of Nebraska at Omaha"
+university: "University of Nebraska at Omaha"
 duration: 9676800
 syllabus: Goodman_AD_F_18.pdf
 ---

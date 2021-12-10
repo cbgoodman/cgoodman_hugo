@@ -1,12 +1,13 @@
 ---
-title: "Public and Nonprofit Budgeting"
+title: "Public & Nonprofit Budgeting"
 date: 2017-01-01T00:00:00-06:00
 enddate: 2017-05-30T00:00:00-06:00
 publishdate: 2017-01-01T00:00:00-06:00
 ay: "2016-2017"
+group: "2020 & Prior"
 semester: "Spring"
 course_num: "PA 8400"
-host: "University of Nebraska at Omaha"
+university: "University of Nebraska at Omaha"
 duration: 9072000
 ---
 

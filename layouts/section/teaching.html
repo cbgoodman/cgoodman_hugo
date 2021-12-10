@@ -16,25 +16,59 @@
     <h2>Classes and Seminars</h2>
     <div class="units-row">
       <div class="unit-70">
-        {{ range (.Pages.GroupByParam "ay").Reverse }}
+        {{ range first 1 (.Pages.GroupByParam "group").Reverse }}
         <div class="units-row">
-          <div class="unit-15">
+          <div class="unit-100">
             <h3>{{ .Key }}</h3>
-          </div>
-          <div class="unit-85">
             <ul class="fa-ul">
               {{ range .Pages }}
               <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}">
-                  <a href="{{ .Permalink }}"><span class="caps">{{ .Title }} ({{ .Params.course_num }})</span></a>, <time>{{ .Date.Format "January 2006"}} to {{ .Params.enddate | dateFormat "January 2006"}}</time>{{ if isset .Params "format" }} ({{ .Params.format }}){{end}}, {{ .Params.host}}.
+                  <a href="{{ .Permalink }}"><span class="caps">{{ .Title }} ({{ .Params.course_num }})</span></a>, <time>{{ .Date.Format "January 2006"}} to {{ .Params.enddate | dateFormat "January 2006"}}</time>{{ if isset .Params "format" }} ({{ .Params.format }}){{end}}, {{ .Params.university}}.
                   {{ partial "comingsoon.html" . }}{{ partial "nowon.html" . }}
                   <!---<p>{{ .Summary }}</p>--->
             </li>
               {{ end }}
             </ul>
           </div>
-        </div>
         {{ end }}
-      </div>
+        </div>
+
+       {{ range first 1 (after 1 (.Pages.GroupByParam "group").Reverse) }}
+          <div class="units-row">
+            <div class="unit-100">
+              <h3>{{ .Key }}</h3>
+              <ul class="fa-ul">
+                {{ range .Pages }}
+                <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}">
+                    <a href="{{ .Permalink }}"><span class="caps">{{ .Title }} ({{ .Params.course_num }})</span></a>, <time>{{ .Date.Format "January 2006"}} to {{ .Params.enddate | dateFormat "January 2006"}}</time>{{ if isset .Params "format" }} ({{ .Params.format }}){{end}}, {{ .Params.university}}.
+                    {{ partial "comingsoon.html" . }}{{ partial "nowon.html" . }}
+                    <!---<p>{{ .Summary }}</p>--->
+                </li>
+                {{ end }}
+              </ul>
+              </div>
+              {{ end }}
+            </div>
+
+
+          {{ range first 1 (after 2 (.Pages.GroupByParam "group").Reverse) }}
+             <div class="units-row">
+               <div class="unit-100">
+                 <h3>{{ .Key }}</h3>
+                 {{ range (.Pages.GroupByParam "university") }}
+                    <h4><strong>{{ .Key }}</strong></h4>
+                    {{ range .Pages.GroupByParam "title" }}
+                    <h4> {{ .Key }}</h4>
+                   {{ range .Pages }}
+                   <a href="{{ .Permalink }}"><span class="badge"><i class="fa-li fa fa-mortar-board fa-fw"></i> {{ .Params.semester }} <time>{{ .Date.Format "2006" }}</time> {{ if isset .Params "format" }} ({{ .Params.format }}){{end}}</span></a>
+                   {{ end }}
+                   {{ end }}
+                 {{ end }}
+              </div>
+            </div>
+            {{ end }}
+        </div>
+
       <div class="unit-30">
         <p><em>I teach classes in quantitative analysis, public finance, and local government, through <a href="http://mpa.niu.edu">Northern Illinois University</a>.</em></p>
         <p><em>This page is an archive for those classes.</em></p>
