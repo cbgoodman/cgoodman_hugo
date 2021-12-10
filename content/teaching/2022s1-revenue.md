@@ -7,9 +7,10 @@ ay: "2021-2022"
 group: "2021-2022 Academic Year"
 semester: "Spring"
 course_num: "PSPA 611"
+website: "https://pspa611.cgoodman.com"
 university: "Northern Illinois University"
 duration: 4665600
-syllabus:
+syllabus: goodman-pspa-611-spr22.pdf
 ---
 
 Theories and practices of public sector revenues. Topics include efficiency and equity considerations, alternative revenue generation, financial analysis, and tax and revenue administration.

@@ -10,7 +10,7 @@ format: "asynchronous online"
 course_num: "PSPA 610"
 university: "Northern Illinois University"
 duration: 4665600
-syllabus:
+syllabus: goodman-pspa610-21f.pdf
 ---
 
 Theory and practice of budgetary processes, analyses, and presentations in public and nonprofit organizations.
