@@ -5,7 +5,7 @@ categories: [dataviz, maps, cities]
 footnotes: false
 htmlwidgets: false
 mathjax: false
-draft: true
+draft: false
 ---
 
 {{% figure src="/files/misc/us_animated_compressed.gif" alt="Animation of municipal incorporations in the US by year" caption="" %}}
