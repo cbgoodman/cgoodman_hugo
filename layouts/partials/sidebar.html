@@ -1,6 +1,6 @@
 <nav class="navbar">
   <ul>
-    <li><a href="/">Christopher B. Goodman</a></li>
+    <li><strong><a href="/">Christopher B. Goodman</a></strong></li>
     {{ $currentNode := . }}
     {{ range .Site.Menus.main }}
     <li><span> <a class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}">{{ .Name }} </a></span>

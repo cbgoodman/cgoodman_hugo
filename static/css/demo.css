@@ -1,18 +1,21 @@
-@import url("fonts.css");
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;700&family=Fira+Code&family=Montserrat:wght@400;700&display=swap');
 
 /* =Typography
 -----------------------------------------------------------------------------*/
 body {
-	font-family: 'Droid Serif', Georgia, 'Times New Roman', Times, Serif;
-	font-size: 1.05em;
-	line-height: 1.6em;
+	font-family: 'Crimson Pro', serif;
+	font-weight: 400;
+	font-size: 1.1em;
+	line-height: 1.2em;
 	background-color: #faf8f8;
 }
 
 form, input[type="search"], select[multiple="multiple"]  {font-family:  'ff-tisa-web-pro', 'Trebuchet MS', Helvetica, Arial, sans-serif;}
 
 h1, h2, h3, h4, h5 {
-	font-family: 'ff-tisa-web-pro', 'Trebuchet MS', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-size: 1.1rem;
 	font-style: italic;
 	color: #36454f;
 }
@@ -21,8 +24,8 @@ h2, h3, h4, h5 {
 	font-style: italic;
 }
 h2, h3 {
-	text-transform: lowercase;
-	font-family: 'ff-meta-serif-sc-web-pro', 'Trebuchet MS', 'Helvetica Neue', Tahoma;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
 	font-style: normal;
 }
 
@@ -95,13 +98,13 @@ img,
 	border-radius: 3px;
 }
 
-nav {text-transform: lowercase;
-     font-family: 'ff-meta-serif-sc-web-pro';}
+nav {font-size: 1.1rem;
+     font-family: 'Montserrat', sans-serif;}
 
-.hd {font-family: 'ff-tisa-web-pro'; }
+.hd {font-family: 'Montserrat', sans-serif; }
 
-.caps {text-transform: lowercase;
-font-family: 'ff-meta-serif-sc-web-pro'; }
+.caps {
+font-family: 'Crimson Pro', serif;}
 
 
 .compact { margin: 0 0 0 1.3em; }
@@ -345,7 +348,7 @@ header h1 {	font-size: 24px;
 .grlog blockquote blockquote {   border-left: 2px solid #dddddd; }
 
 .grlog .datestamp {	text-transform: lowercase;
-	font-family: 'ff-meta-serif-sc-web-pro'; }
+	font-family: 'Montserrat', sans-serif; }
 
 .grlog img { margin-left: 12px; margin-bottom: 12px; margin-top:12px;}
 

@@ -20,7 +20,7 @@ unsafe= true
 [menu]
 
   [[menu.main]]
-  name = "bio & cv"
+  name = "Bio & CV"
   url = "/cv"
   weight = 2.0
 
