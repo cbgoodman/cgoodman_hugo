@@ -8,10 +8,11 @@ mathjax: false
 draft: true
 ---
 
+{{% figure src="/files/misc/us_animated_compressed.gif" alt="Animation of municipal incorporations in the US by year" caption="" %}}
 
 <!--more-->
 
-{{% figure src="/files/misc/us_animated_compressed.gif" alt="" caption="" %}}
 
+An easier to share version is below.
 
 {{< youtube J7WjPgGAnJc >}}
