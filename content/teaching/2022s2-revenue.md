@@ -11,7 +11,7 @@ course_num: "PSPA 611"
 university: "Northern Illinois University"
 duration: 4665600
 syllabus:
-draft: true
+draft: false
 ---
 
 Theories and practices of public sector revenues. Topics include efficiency and equity considerations, alternative revenue generation, financial analysis, and tax and revenue administration.
