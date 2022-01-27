@@ -1,13 +1,12 @@
 ---
 title: "Neighborhood Institutions and Residential Home Sales: Evaluating the Impact of Property Tax Exemptions"
 author: Deborah A. Carroll and Christopher B. Goodman
-status: unpublished
-type: unpublished
-citation: "&ldquo;Neighborhood Institutions and Residential Home Sales: Evaluating the Impact of Property Tax Exemptions&rdquo; <em>The Journal of Real Estate Finance &amp; Economics</em>"
+type: published
+citation: "&ldquo;Neighborhood Institutions and Residential Home Sales: Evaluating the Impact of Property Tax Exemptions&rdquo; <em>The Journal of Real Estate Finance &amp; Economics</em> 64: 247–273."
 subjects:
 comments: no
 file: tax-exempt-housing.pdf
-date: 2021-01-06
+date: 2022-01-27
 publishdate:
 doi: 10.1007/s11146-020-09808-y
 ---
@@ -16,10 +15,12 @@ We focus on the urban amenities of “neighborhood institutions,” which are th
 
 ### BibTeX Citation
 ```bib
-@article{carroll-goodman-2021,
+@article{carroll-goodman-2022,
   author = {Carroll, Deborah A. and Goodman, Christopher B.},
   doi = {10.1007/s11146-020-09808-y},
   journal = {The Journal of Real Estate Finance and Economics},
+  pages = {247-273},
   title = {Neighborhood Institutions and Residential Home Sales: Evaluating the Impact of Property Tax Exemptions},
-  year = {2021}}
+  volume = {64},
+  year = {2022}}
 ```
