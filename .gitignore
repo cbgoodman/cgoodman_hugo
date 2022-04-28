@@ -3,6 +3,7 @@
 public
 yugo
 .oldgit
+.hugo_build.lock
 static/css/hyde-min.css
 static/css/poole-min.css
 static/css/stylesheet-min.css
