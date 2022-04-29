@@ -1,5 +1,5 @@
 ---
-title: "State Preemption and Affordable Housing"
+title: "State Preemption and Affordable Housing Policy"
 author: Christopher B. Goodman and Megan E. Hatch
 status: Unpublished
 type: unpublished
