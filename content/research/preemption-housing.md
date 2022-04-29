@@ -19,6 +19,6 @@ Many affordable housing policies are the domain of local governments. While subn
 @unpublished{goodman-hatch-2022,
   author = {Goodman, Christopher B. and Hatch, Megan E.},
   note = {Working Paper},
-  title = {State Preemption and Affordable Housing},
+  title = {State Preemption and Affordable Housing Policy},
   year = {2022}
 ```
