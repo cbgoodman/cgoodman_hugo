@@ -41,8 +41,8 @@
           </div>
           {{ end }}
           <!--- Books --->
-          <!--- <h2>Books</h2>
-          {{ range (where .Data.Pages "Params.kind" "book").GroupByPublishDate "2006" "desc" }}
+          <!--- <h2>Book Chapters</h2>
+          {{ range (where .Data.Pages "Params.kind" "chapter").GroupByPublishDate "2006" "desc" }}
           <div class="units-row">
             <div class="unit-10">
               <h3>{{ .Key }}</h3>
@@ -50,10 +50,13 @@
             <div class="unit-90">
               <ul class="compact fa-ul">
 	        {{ range .Pages.ByPublishDate.Reverse }}
-                <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "book" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }}
+                <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "chapter" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }}
                   <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
+                  {{ if isset .Params "doi" }}
+                  <a href="http://dx.doi.org/{{.Params.doi}}" class="badge badge-small badge-blue">doi</a>
+                  {{ end }}
                   {{ if isset .Params "file" }}
-                  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
+                  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}" class="badge badge-small badge-red"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
                   {{ end }}
                 </li>
 	        {{ end }}
@@ -67,7 +70,7 @@
 
           <!-- Column of even-numbered items -->
           <!--- Articles --->
-          <h2>Articles and Book Chapters</h2>
+          <h2>Articles</h2>
           {{ range (where .Data.Pages "Type" "published" ).GroupByDate "2006" "desc" }}
           <div class="units-row">
             <div class="unit-10">
@@ -76,7 +79,7 @@
             <div class="unit-90">
               <ul class="compact fa-ul">
 	        {{ range .Pages.ByDate.Reverse }}
-                {{ if ne .Params.kind "book" }}
+                {{ if ne .Params.kind "chapter" }}
                 <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "book" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }}
                   <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
                   {{ if isset .Params "doi" }}
@@ -112,9 +115,9 @@
             </div>
           </div>
           {{ end }} -->
-          <!--- Popular Work --->
-          <h2>Essays and Reviews</h2>
-          {{ range (where .Data.Pages "Type" "other").GroupByDate "2006" "desc" }}
+          <!--- Book Chapters --->
+          <h2>Book Chapters</h2>
+          {{ range (where .Data.Pages "Params.kind" "chapter").GroupByDate "2006" "desc" }}
           <div class="units-row">
             <div class="unit-10">
               <h3>{{ .Key }}</h3>
@@ -122,12 +125,15 @@
             <div class="unit-90">
               <ul class="compact fa-ul">
 	        {{ range .Pages.ByDate.Reverse }}
-                <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "book" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }}
-                  <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
-                  {{ if isset .Params "file" }}
-                  <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}" class="badge badge-small"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
-                  {{ end }}
-                </li>
+            <li><i class="fa-li fa  {{ if eq .Type "unpublished" }}fa-file-o {{ else if eq .Params.kind "chapter" }}fa-book {{ else }}fa-file {{ end }} fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i> {{ .Params.citation | safeHTML }}
+              <a href="{{ .Permalink }}" class="badge badge-small">Abstract</a>
+            {{ if isset .Params "doi" }}
+              <a href="http://dx.doi.org/{{.Params.doi}}" class="badge badge-small badge-blue">doi</a>
+            {{ end }}
+            {{ if isset .Params "file" }}
+              <a href="{{.Site.BaseURL}}files/papers/{{ .Params.file }}" class="badge badge-small badge-red"><i class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
+            {{ end }}
+            </li>
 	        {{ end }}
               </ul>
             </div>
