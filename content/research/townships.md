@@ -1,9 +1,9 @@
 ---
 title: "The Forgotten Governments: Exploring Midwestern Township Capacities and Functional Service Responsibilities"
 author: Jaehee Jong, Christopher B. Goodman, Aaron Deslatte, Jerry Crabtree, and Kurt Thurmaier
-status: Unpublished
-type: unpublished
-citation: "&ldquo;The Forgotten Governments: Exploring Midwestern Township Capacities and Functional Service Responsibilities&rdquo;"
+status: Published
+type: published
+citation: "&ldquo;The Forgotten Governments: Exploring Midwestern Township Capacities and Functional Service Responsibilities&rdquo; <em>State &amp; Local Government Review</em>"
 tag:
 subjects:
 comments: no
@@ -16,9 +16,10 @@ This field note provides both a foundation for discussion about the role of town
 
 ### BibTeX Citation
 ```bib
-@unpublished{jong-goodman-deslatte-crabtree-thurmaier-2022,
-  author = {Jong, Jaehee and Goodman, Christopher B. and Deslatte, Aaron and Crabtree, Jerry and Thurmaier, Kurt M.},
-  note = {Working Paper},
-  title = {The Forgotten Governments: Exploring Midwestern Township Capacities and Functional Service Responsibilities},
-  year = {2022}}
+@article{jongetal2022,
+	author = {Jong, Jahee and Goodman, Christopher B. and Deslatte, Aaron and Crabtree, Jerry and Thurmaier, Kurt},
+	journal = {State \& Local Government Review},
+	title = {The Forgotten Governments: Exploring Midwestern Township Capacities and Functional Service Responsibilities},
+	year = {forthcoming}}
+
 ```
