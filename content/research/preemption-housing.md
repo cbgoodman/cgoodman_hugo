@@ -2,13 +2,13 @@
 title: "State Preemption and Affordable Housing Policy"
 author: Christopher B. Goodman and Megan E. Hatch
 status: Unpublished
-type: unpublished
-citation: "&ldquo;State Preemption and Affordable Housing Policy&rdquo;"
+type: published
+citation: "&ldquo;State Preemption and Affordable Housing Policy&rdquo; <em>Urban Studies</em>"
 tag:
 subjects:
 comments: no
 file: preemption-housing.pdf
-date: 2022-04-28T20:46:08-05:00
+date: 2022-09-28T20:46:08-05:00
 publishdate:
 ---
 
@@ -16,9 +16,9 @@ Many affordable housing policies are the domain of local governments. While subn
 
 ### BibTeX Citation
 ```bib
-@unpublished{goodman-hatch-2022,
+@article{goodman-hatch-2022,
   author = {Goodman, Christopher B. and Hatch, Megan E.},
-  note = {Working Paper},
+  journal = {Urban Studies},
   title = {State Preemption and Affordable Housing Policy},
-  year = {2022}
+  year = {forthcoming}
 ```
