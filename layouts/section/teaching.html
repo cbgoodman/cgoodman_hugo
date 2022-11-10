@@ -51,10 +51,10 @@
             </div>
 
 
-          {{ range first 1 (after 2 (.Pages.GroupByParam "group").Reverse) }}
+          {{ range first 1 (.Pages.GroupByParam "archive") }}
              <div class="units-row">
                <div class="unit-100">
-                 <h3>{{ .Key }}</h3>
+                 <h3> Archive </h3>
                  {{ range (.Pages.GroupByParam "university") }}
                     <h4><strong>{{ .Key }}</strong></h4>
                     {{ range .Pages.GroupByParam "title" }}

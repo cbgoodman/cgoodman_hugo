@@ -9,6 +9,7 @@ semester: "Spring"
 course_num: "PA 8400"
 university: "University of Nebraska at Omaha"
 duration: 9072000
+archive: true
 ---
 
 This course introduces students to the theory and practice of budgeting at all levels of government and in

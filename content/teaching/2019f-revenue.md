@@ -10,6 +10,7 @@ course_num: "PSPA 611"
 university: "Northern Illinois University"
 duration: 4665600
 syllabus: goodman_611_f19.pdf
+archive: true
 ---
 
 Theories and politics of taxation, features and impacts of alternative revenue generation methods, and financial management topics including procurement and procurement systems, enterprise resource planning systems, and contract management.

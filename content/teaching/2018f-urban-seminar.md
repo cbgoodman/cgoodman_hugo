@@ -10,6 +10,7 @@ course_num: "UBNS 8000"
 university: "University of Nebraska at Omaha"
 duration: 9676800
 syllabus: Goodman_US_F_18.pdf
+archive: true
 ---
 
 This course is considered the core seminar in the graduate program in Urban Studies. It introduces students to the interdisciplinary and scholarly examination of the factors and issues that affect the dynamics of the urban environment. It focuses on the study of cities from three broad perspectives -- human community, built environment and natural systems.

@@ -9,6 +9,7 @@ semester: "Fall"
 course_num: "UBNS 8OOO"
 university: "University of Nebraska at Omaha"
 duration: 9072000
+archive: true
 ---
 
 This course, team taught by the Urban Studies faculty, is considered the core seminar in the graduate program in Urban Studies. It introduces students to the interdisciplinary and scholarly examination of the factors and issues that affect the dynamics of the urban environment. It focuses on the study of cities from three broad perspectives – Human community, built environment and natural systems.

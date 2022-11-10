@@ -5,6 +5,7 @@ enddate: 2020-08-05T00:00:00-06:00
 publishdate: {{ .Date }}
 ay:
 semester:
+group: "Academic Year"
 format:
 course_num: "PSPA 611"
 website:

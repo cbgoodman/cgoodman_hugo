@@ -10,6 +10,7 @@ course_num: "PSPA 723"
 university: "Northern Illinois University"
 duration: 9504000
 syllabus:
+archive: true
 ---
 
 Intensive examination of selected topics related to the science of public management, the politics of administration, and the role of government agencies in the formulation of public policy.

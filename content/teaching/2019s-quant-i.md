@@ -10,6 +10,7 @@ course_num: "PA 9950"
 university: "University of Nebraska at Omaha"
 duration: 9676800
 syllabus: goodman_9950_spr_19.pdf
+archive: true
 ---
 
 This course is an introduction to the theory and application of linear modeling to economic and public policy problems. The course focuses on the techniques used in empirical research with a particular focus on intuitive understanding. Problem sets will introduce real world applications and teach you the fundamentals of statistical programming in Stata. No prior knowledge of computer programming in necessary. It is a required course for the Ph.D students in the School of Public Administration.
