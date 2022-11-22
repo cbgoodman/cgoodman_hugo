@@ -19,8 +19,8 @@
         {{ if ge .Date.Unix now.Unix }}{{ if (le .Date.Unix (add now.Unix 7776000)) }}<span class="badge badge-small badge-yellow">coming soon</span>{{ end }}{{ end }}
         {{ if (le .Date.Unix now.Unix) }}{{ if (le now.Unix (add .Date.Unix .Params.duration)) }}<span class="badge badge-small badge-green">now on</span>{{ end }}{{ end }}
         <p>
-        <p>{{ if .Params.syllabus }}<a href="{{.Site.BaseURL}}files/teaching/{{.Params.syllabus}}" class="badge"><i class="fa fa-file-pdf-o"></i>&nbsp;syllabus</a>{{ end }}
-        {{ if .Params.website }}<a href="{{ .Params.website }}" class="badge"><i class="fa fa-external-link"></i>&nbsp;website</a>{{ end }}</p>
+        <p>{{ if .Params.syllabus }}<a href="{{.Site.BaseURL}}files/teaching/{{.Params.syllabus}}" class="badge"><i class="far fa-file-pdf"></i>&nbsp;syllabus</a>{{ end }}
+        {{ if .Params.website }}<a href="{{ .Params.website }}" class="badge"><i class="fas fa-external-link-alt"></i>&nbsp;website</a>{{ end }}</p>
         </p>
       </div>
       <div class="unit-centered unit-60">

@@ -22,7 +22,7 @@
             <h3>{{ .Key }}</h3>
             <ul class="fa-ul">
               {{ range .Pages }}
-              <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}">
+              <li><i class="fa-li fas fa-graduation-cap" style="color:#03396c;font-size:80%"></i><a href="{{ .Permalink }}">
                   <a href="{{ .Permalink }}"><span class="caps">{{ .Title }} ({{ .Params.course_num }})</span></a>, <time>{{ .Date.Format "January 2006"}} to {{ .Params.enddate | dateFormat "January 2006"}}</time>{{ if isset .Params "format" }} ({{ .Params.format }}){{end}}, {{ .Params.university}}.
                   {{ partial "comingsoon.html" . }}{{ partial "nowon.html" . }}
                   <!---<p>{{ .Summary }}</p>--->
@@ -39,7 +39,7 @@
               <h3>{{ .Key }}</h3>
               <ul class="fa-ul">
                 {{ range .Pages }}
-                <li><i class="fa-li fa fa-mortar-board fa-fw" style="color:#03396c;font-size:80%;padding-top:6px;"></i><a href="{{ .Permalink }}">
+                <li><i class="fa-li fas fa-graduation-cap" style="color:#03396c;font-size:80%"></i><a href="{{ .Permalink }}">
                     <a href="{{ .Permalink }}"><span class="caps">{{ .Title }} ({{ .Params.course_num }})</span></a>, <time>{{ .Date.Format "January 2006"}} to {{ .Params.enddate | dateFormat "January 2006"}}</time>{{ if isset .Params "format" }} ({{ .Params.format }}){{end}}, {{ .Params.university}}.
                     {{ partial "comingsoon.html" . }}{{ partial "nowon.html" . }}
                     <!---<p>{{ .Summary }}</p>--->
@@ -60,7 +60,7 @@
                     {{ range .Pages.GroupByParam "title" }}
                     <h4> {{ .Key }}</h4>
                    {{ range .Pages }}
-                   <a href="{{ .Permalink }}"><span class="badge"><i class="fa-li fa fa-mortar-board fa-fw"></i> {{ .Params.semester }} <time>{{ .Date.Format "2006" }}</time> {{ if isset .Params "format" }} ({{ .Params.format }}){{end}}</span></a>
+                   <a href="{{ .Permalink }}"><span class="badge"><i class="fa-li fas fa-graduation-cap" style="color:#03396c;font-size:80%"></i> {{ .Params.semester }} <time>{{ .Date.Format "2006" }}</time> {{ if isset .Params "format" }} ({{ .Params.format }}){{end}}</span></a>
                    {{ end }}
                    {{ end }}
                  {{ end }}
