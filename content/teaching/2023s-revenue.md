@@ -11,7 +11,7 @@ course_num: "PSPA 611"
 website:
 university: "Northern Illinois University"
 duration: 4665600
-syllabus:
+syllabus: goodman-pspa611-23spr.pdf
 draft: false
 ---
 
