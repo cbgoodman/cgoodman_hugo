@@ -9,7 +9,7 @@ semester: "Summer"
 course_num: "PSPA 635"
 university: "Northern Illinois University"
 duration: 4665600
-syllabus:
+syllabus: "goodman-pspa635-sum22.pdf"
 draft: false 
 ---
 Introduction to the tools, institutions, analytical techniques, financing instruments, and policy issues relevant to economic development policy at the state, local, and regional level.
