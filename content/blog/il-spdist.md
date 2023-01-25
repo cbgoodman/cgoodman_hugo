@@ -5,7 +5,7 @@ categories: [dataviz,maps,local-govt]
 footnotes: false
 htmlwidgets: false
 mathjax: false
-draft: true
+draft: false
 ---
 
 {{% figure src="files/misc/il-cog-17-pcspdist.png" alt="IL special districts per capita." caption="" %}}
